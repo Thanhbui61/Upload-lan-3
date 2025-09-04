@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Welcome to Cherry Boss's Land</h1>
+    <h2>The 2nd Mini Album</h2>
+    <img
+      src="Pics/teaser-photos.jpg"
+      alt="teaser img"
+      width="300"
+      height="450"
+    />
+    <ol>
+      <li><a href="Songs/Upsidedown.html">Upside Down</a></li>
+      <li><a href="Songs/BackandForth.html">Back & Forth</a></li>
+      <li><a href="Songs/OceanDrive.html">Ocean Drive</a></li>
+      <li><a href="Songs/HighandDry.html">High & Dry</a></li>
+      <li><a href="Songs/HappyandAccident.html">Happy Accident</a></li>
+      <li><a href="Songs/123Dance.html">123 Dance</a></li>
+    </ol>
+  </body>
+</html>
